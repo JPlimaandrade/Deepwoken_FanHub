@@ -2,3 +2,7 @@
 Na formatação do site utilizei o CSS e o Bootstrap, caso não entenda por que algumas coisas não aparecem no CSS é por que provavelmente estão direto na página HTML.
 
 Responsividade de: °Mobile Médio até °Lapot Largo
+
+## Link do Github Pages
+
+[Acesse aqui](https://jplimaandrade.github.io/Deepwoken_FanHub/)
