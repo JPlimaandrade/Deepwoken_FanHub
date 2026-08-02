@@ -64,7 +64,7 @@ document.addEventListener("DOMContentLoaded", () => {
             id: "etris",
             titulo: "Etris",
             descricao: "Uma das principais cidades do mundo de Deepwoken, repleta de NPCs, lojas e missões importantes.",
-            imagem: "assets/img/Cards/Etris_card.jpg"
+            imagem: "assets/img/Cards/Etris_Card.jpg"
         },
         //Deepths
         {
