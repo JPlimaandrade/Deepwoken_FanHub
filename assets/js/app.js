@@ -71,7 +71,7 @@ document.addEventListener("DOMContentLoaded", () => {
             id: "deepths",
             titulo: "The Deepths",
             descricao: "O submundo mortal de Deepwoken. Um lugar onde o perigo é constante e a morte é permanente.",
-            imagem: "assets/img/Cards/Deepths_Card.jpg"
+            imagem: "assets/img/Cards/Deepths_card.jpg"
         },
         //Bells
         {
@@ -85,21 +85,21 @@ document.addEventListener("DOMContentLoaded", () => {
             id: "oaths",
             titulo: "Oaths",
             descricao: "Juramentos poderosos que concedem habilidades exclusivas aos jogadores. Saiba como adquiri-los.",
-            imagem: "assets/img/Cards/Oaths_Card.jpg"
+            imagem: "assets/img/Cards/Oaths_CARD.jpg"
         },
         //Mobs
         {
             id: "mobs",
             titulo: "Mobs",
             descricao: "Conheça as criaturas que habitam o mundo de Deepwoken. Algumas são hostis, outras são caçadas por recompensas.",
-            imagem: "assets/img/Cards/Monsters_Card.jpg"
+            imagem: "assets/img/Cards/monsters_card.jpg"
         },
         //Bosses
         {
             id: "bosses",
             titulo: "Bosses",
             descricao: "Os inimigos mais desafiadores do jogo. Prepare-se para batalhas intensas e recompensas únicas!",
-            imagem: "assets/img/Cards/Boses_Card.jpg"
+            imagem: "assets/img/Cards/boses_card.jpg"
         },
         //Layer 2
         {
